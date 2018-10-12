@@ -1,0 +1,2 @@
+一、https://blog.csdn.net/m0_37950361/article/details/80138929（git的基本操作 比较详细）//如果之前连接了一个仓库，下次还另一个的话或者是之前用http的方式连接，下次想用ssh的方式记得要进行git remote remove origin      //与远端解除绑定 这一步操作。（未完待续）
+
